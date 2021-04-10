@@ -16,7 +16,7 @@ my chrome is under "C:\Program Files\Google\Chrome\Application". you can check t
 
 after put chromedriver.exe file into the location mine looks like this.
 
-![image-20210410124030710](C:\Users\han\AppData\Roaming\Typora\typora-user-images\image-20210410124030710.png)
+![image-20210410124030710](https://github.com/hanminghe/mynotes/blob/master/imgs/image-20210410124030710.png)
 
 ```python
 from selenium import webdriver
